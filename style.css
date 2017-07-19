@@ -1,0 +1,20 @@
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: yellow;
+	display: block;
+	/*background-color: grey;*/
+}
+
+body {
+	font-family: roboto;
+	color: brown;
+	/*width: 19em;*/
+	margin: 0;
+}
+
+.background {
+	background: url('images/nature.jpg') no-repeat;
+	background-size: cover;
+	z-index: -1;
+}
